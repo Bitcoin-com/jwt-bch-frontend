@@ -1,5 +1,7 @@
 # jwt-bch-frontend
 
+This repository is forked from [jwt-bch-frontend in the PSF repository](https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend). It was forked so the Developer Services team can play with the code and evaluate if it's a good fit for our product plan.
+
 This is a front end user interface based on Gatsby and React. It is forked from
 [this template](https://github.com/christroutner/gatsby-login). It is intended
 to be run with [this back end](https://github.com/Permissionless-Software-Foundation/jwt-bch-api).
